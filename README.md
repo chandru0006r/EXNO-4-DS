@@ -24,6 +24,22 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/c438775f-52ad-4840-b411-15ba5156ef23)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/74cd2725-b72c-4012-ac67-ecb774ac4efd)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/6448562f-32a2-44df-a971-dff8892c2544)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/d4e2bd10-07f1-48f9-b723-13cfd04fca27)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/3485e1e0-b10a-4bcf-ab46-d9788a468a91)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/0cb89042-a179-4036-bede-7aa493641dbf)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/1f875c98-477f-4d16-a798-49b46b023441)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/c5165ab8-d9a8-485d-b076-ca666a711aa5)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/69c1bce3-2c40-435c-99bd-6f335879d804)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/cb7fd026-9cf2-4bfc-b760-004d1ff3e95f)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/c0565d31-7fb7-419e-9668-1bb14b9e63a4)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/69f474b7-9fd0-4ed7-b363-7d5330c560e3)
+![image](https://github.com/ShAkThI-9304/EXNO-4-DS/assets/118522870/a420a683-8a4f-4bbb-87ad-dee6af643608)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus to read the given data and perform Feature Scaling and Feature Selection process and save the
+data to a file has been executed successfully
+       
